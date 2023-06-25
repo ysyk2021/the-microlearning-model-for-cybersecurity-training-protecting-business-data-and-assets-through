@@ -1,5 +1,4 @@
-Chapter 5: Delivering Microlearning Content for Cybersecurity Training: Leveraging Technology for Learning Delivery
-===================================================================================================================
+# Leveraging Technology for Learning Delivery
 
 In this chapter, we will discuss how businesses can deliver microlearning content for cybersecurity training by leveraging technology for learning delivery.
 

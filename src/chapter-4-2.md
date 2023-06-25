@@ -1,5 +1,4 @@
-Chapter 4: Developing a Microlearning Plan for Cybersecurity Training: Identifying Key Cybersecurity Concepts and Skills
-========================================================================================================================
+# Identifying Key Cybersecurity Concepts and Skills
 
 In this chapter, we will explore how to develop a microlearning plan for cybersecurity training by identifying key cybersecurity concepts and skills.
 

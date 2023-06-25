@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Science of Learning: The Relationship Between Microlearning and Retention
-======================================================================================================
+# The Relationship Between Microlearning and Retention
 
 In this chapter, we will explore the science of learning and how it relates to microlearning and retention.
 

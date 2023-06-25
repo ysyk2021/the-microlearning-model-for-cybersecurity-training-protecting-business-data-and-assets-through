@@ -1,5 +1,4 @@
-Chapter 7: Addressing Barriers to Effective Cybersecurity Training: Managing Time Constraints and Workloads
-===========================================================================================================
+# Managing Time Constraints and Workloads
 
 In this chapter, we will explore how to address the barriers to effective cybersecurity training, specifically managing time constraints and workloads.
 

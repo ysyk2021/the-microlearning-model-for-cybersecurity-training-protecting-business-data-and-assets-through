@@ -1,5 +1,4 @@
-Chapter 5: Delivering Microlearning Content for Cybersecurity Training: Techniques for Delivering Microlearning Content for Cybersecurity Training
-==================================================================================================================================================
+# Techniques for Delivering Microlearning Content for Cybersecurity Training
 
 In this chapter, we will discuss techniques for delivering microlearning content for cybersecurity training.
 

@@ -1,5 +1,4 @@
-Chapter 2: Overview of Cybersecurity Threats: The Impact of Cybersecurity Threats on Businesses
-===============================================================================================
+# The Impact of Cybersecurity Threats on Businesses
 
 In this chapter, we will discuss the impact that cybersecurity threats can have on businesses.
 

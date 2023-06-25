@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Cybersecurity Training Effectiveness: Continuous Improvement in Cybersecurity Training Practices
-====================================================================================================================================
+# Continuous Improvement in Cybersecurity Training Practices
 
 In this chapter, we will discuss the importance of measuring and evaluating cybersecurity training effectiveness and how businesses can continuously improve their cybersecurity training practices.
 

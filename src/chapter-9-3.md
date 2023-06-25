@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Cybersecurity Training: Avoiding Discrimination and Bias
-=============================================================================================
+# Avoiding Discrimination and Bias
 
 In this chapter, we will discuss ethical considerations that arise in cybersecurity training related to avoiding discrimination and bias.
 

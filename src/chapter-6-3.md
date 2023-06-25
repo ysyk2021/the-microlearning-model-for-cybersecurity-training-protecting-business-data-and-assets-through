@@ -1,5 +1,4 @@
-Chapter 6: Assessing Learning Outcomes in Microlearning: Providing Feedback and Reinforcement
-=============================================================================================
+# Providing Feedback and Reinforcement
 
 In this chapter, we will discuss how to assess learning outcomes in microlearning and provide feedback and reinforcement to learners.
 

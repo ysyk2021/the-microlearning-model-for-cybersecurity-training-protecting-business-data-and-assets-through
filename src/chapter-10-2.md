@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Final Recommendations for Using the Microlearning Model for Cybersecurity Training
-==========================================================================================================
+# Final Recommendations for Using the Microlearning Model for Cybersecurity Training
 
 In this chapter, we provide final recommendations for using the microlearning model for cybersecurity training.
 

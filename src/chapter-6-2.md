@@ -1,5 +1,4 @@
-Chapter 6: Assessing Learning Outcomes in Microlearning: Measuring Knowledge Retention and Transfer
-===================================================================================================
+# Measuring Knowledge Retention and Transfer
 
 In this chapter, we will discuss the importance of measuring knowledge retention and transfer in microlearning and provide techniques for doing so effectively.
 

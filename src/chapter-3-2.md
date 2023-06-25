@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Science of Learning: Different Learning Styles and Preferences
-===========================================================================================
+# Different Learning Styles and Preferences
 
 In this chapter, we will explore different learning styles and preferences and how they relate to cybersecurity training.
 

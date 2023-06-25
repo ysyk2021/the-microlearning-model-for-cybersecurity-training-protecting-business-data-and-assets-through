@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Science of Learning: Techniques for Understanding the Science of Learning
-======================================================================================================
+# Techniques for Understanding the Science of Learning
 
 In this chapter, we will explore techniques for understanding the science of learning and how they can be applied to cybersecurity training.
 

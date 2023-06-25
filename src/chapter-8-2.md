@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Cybersecurity Training Effectiveness: Evaluating Individual and Organizational Performance
-==============================================================================================================================
+# Evaluating Individual and Organizational Performance
 
 In this chapter, we will discuss how businesses can evaluate individual and organizational performance to measure the effectiveness of cybersecurity training.
 

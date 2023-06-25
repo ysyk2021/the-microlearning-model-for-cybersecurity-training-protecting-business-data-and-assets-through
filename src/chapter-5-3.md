@@ -1,5 +1,4 @@
-Chapter 5: Delivering Microlearning Content for Cybersecurity Training: Ensuring Accessibility and Relevance
-============================================================================================================
+# Ensuring Accessibility and Relevance
 
 In this chapter, we will discuss how to deliver microlearning content for cybersecurity training in a way that is accessible and relevant to employees.
 

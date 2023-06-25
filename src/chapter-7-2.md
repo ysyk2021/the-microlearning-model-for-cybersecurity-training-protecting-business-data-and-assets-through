@@ -1,5 +1,4 @@
-Chapter 7: Addressing Barriers to Effective Cybersecurity Training: Overcoming Resistance to Change and New Strategies
-======================================================================================================================
+# Overcoming Resistance to Change and New Strategies
 
 In this chapter, we will discuss how businesses can address resistance to change and implement new strategies to overcome barriers to effective cybersecurity training.
 

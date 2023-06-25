@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Cybersecurity Training: Respecting Employee Privacy and Confidentiality
-============================================================================================================
+# Respecting Employee Privacy and Confidentiality
 
 In this chapter, we will discuss the ethical considerations that arise in cybersecurity training related to employee privacy and confidentiality.
 

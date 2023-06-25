@@ -1,5 +1,4 @@
-Chapter 2: Overview of Cybersecurity Threats: Different Types of Cybersecurity Threats
-======================================================================================
+# Different Types of Cybersecurity Threats
 
 In this chapter, we will provide an overview of the different types of cybersecurity threats that organizations face.
 

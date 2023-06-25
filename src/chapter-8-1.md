@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Cybersecurity Training Effectiveness: Metrics for Measuring Cybersecurity Training Effectiveness
-====================================================================================================================================
+# Metrics for Measuring Cybersecurity Training Effectiveness
 
 In this chapter, we will discuss metrics for measuring cybersecurity training effectiveness and how businesses can evaluate the impact of their microlearning program.
 

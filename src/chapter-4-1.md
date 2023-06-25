@@ -1,5 +1,4 @@
-Chapter 4: Developing a Microlearning Plan for Cybersecurity Training: Techniques for Developing a Microlearning Plan for Cybersecurity Training
-================================================================================================================================================
+# Techniques for Developing a Microlearning Plan for Cybersecurity Training
 
 In this chapter, we will explore different techniques for developing a microlearning plan for cybersecurity training.
 

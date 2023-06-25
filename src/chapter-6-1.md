@@ -1,5 +1,4 @@
-Chapter 6: Assessing Learning Outcomes in Microlearning: Techniques for Assessing Learning Outcomes in Microlearning
-====================================================================================================================
+# Techniques for Assessing Learning Outcomes in Microlearning
 
 In this chapter, we will discuss various techniques for assessing learning outcomes in microlearning. Effective assessment is essential to determine the effectiveness of cybersecurity training and identify areas where employees may need additional support.
 
