@@ -8,7 +8,4 @@ This book covers a wide range of topics related to cybersecurity, including the 
 
 Whether you're a small business owner or part of a large corporation, this book can help you protect your business from cyber threats by equipping your employees with the knowledge they need to identify and prevent security breaches. By implementing the microlearning model for cybersecurity training, you can reduce the risk of a data breach and safeguard your business's reputation and financial stability.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
