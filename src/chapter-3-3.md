@@ -1,4 +1,4 @@
-Chapter: The Relationship between Microlearning and Retention
+The Relationship between Microlearning and Retention
 =============================================================
 
 Microlearning has emerged as an effective approach for cybersecurity training, enabling organizations to deliver training content in small, focused modules. In this chapter, we will explore the relationship between microlearning and retention, highlighting how this approach enhances learners' ability to retain and apply cybersecurity knowledge.

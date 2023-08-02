@@ -1,4 +1,4 @@
-Chapter: Evaluating Individual and Organizational Performance
+Evaluating Individual and Organizational Performance
 =============================================================
 
 In this chapter, we will explore the methods and considerations for evaluating individual and organizational performance in cybersecurity training using the microlearning model. Effective evaluation allows organizations to assess the impact of training initiatives, identify areas for improvement, and measure the effectiveness of their cybersecurity measures.

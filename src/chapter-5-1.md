@@ -1,4 +1,4 @@
-Chapter: Techniques for Delivering Microlearning Content for Cybersecurity Training
+Techniques for Delivering Microlearning Content for Cybersecurity Training
 ===================================================================================
 
 In this chapter, we will explore techniques for delivering microlearning content for cybersecurity training. Microlearning is a popular approach that breaks down training into small, easily digestible modules to enhance engagement and knowledge retention. This chapter highlights key strategies and best practices for effectively delivering microlearning content in cybersecurity training programs.

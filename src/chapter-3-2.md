@@ -1,4 +1,4 @@
-Chapter: Different Learning Styles and Preferences
+Different Learning Styles and Preferences
 ==================================================
 
 In the field of cybersecurity training, understanding different learning styles and preferences is essential for designing effective educational programs. This chapter explores various learning styles and preferences and provides strategies for catering to diverse learners.

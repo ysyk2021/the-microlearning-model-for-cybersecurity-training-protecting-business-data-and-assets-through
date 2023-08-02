@@ -1,4 +1,4 @@
-Chapter: Different Types of Cybersecurity Threats
+Different Types of Cybersecurity Threats
 =================================================
 
 In this chapter, we will explore different types of cybersecurity threats that organizations face in today's digital landscape. Understanding these threats is crucial for effective microlearning in cybersecurity training. By familiarizing employees with the various types of threats, organizations can better educate and prepare them to protect business data and assets. This chapter provides an overview of common cybersecurity threats and their potential impact.

@@ -1,4 +1,4 @@
-Chapter: Avoiding Discrimination and Bias
+Avoiding Discrimination and Bias
 =========================================
 
 In this chapter, we will explore strategies to avoid discrimination and bias in the context of cybersecurity training using the microlearning model. It is crucial to promote an inclusive and equitable learning environment that respects diversity and avoids perpetuating biases.

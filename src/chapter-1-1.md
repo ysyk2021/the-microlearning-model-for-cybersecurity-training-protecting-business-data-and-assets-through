@@ -1,4 +1,4 @@
-Chapter: Defining the Importance of Cybersecurity Training
+Defining the Importance of Cybersecurity Training
 ==========================================================
 
 Cybersecurity threats are constantly evolving, making it crucial for organizations to prioritize the education and training of their employees. In this chapter, we will explore the importance of cybersecurity training in protecting business data and assets from malicious attacks.
