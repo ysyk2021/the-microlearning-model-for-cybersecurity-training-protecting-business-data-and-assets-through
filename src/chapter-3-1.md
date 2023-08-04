@@ -3,7 +3,7 @@ Techniques for Understanding the Science of Learning
 
 In this chapter, we will explore various techniques for understanding the science of learning and how they can be applied to cybersecurity training. These techniques provide insights into how individuals acquire knowledge and skills, enabling organizations to design more effective and efficient training programs.
 
-1. **Cognitive Load Theory**
+1\. **Cognitive Load Theory**
 ----------------------------
 
 Cognitive Load Theory focuses on the working memory capacity of learners and how to optimize information processing. Key techniques based on this theory include:
@@ -14,7 +14,7 @@ Cognitive Load Theory focuses on the working memory capacity of learners and how
 
 * **Multimedia Principles**: Using multimedia elements, such as visuals and audio, that align with how the human brain processes information optimizes learning outcomes.
 
-2. **Spaced Learning**
+2\. **Spaced Learning**
 ----------------------
 
 Spaced Learning involves distributing learning activities over time with intervals between sessions. This technique enhances long-term retention by allowing learners to revisit and reinforce their knowledge. Key techniques include:
@@ -23,7 +23,7 @@ Spaced Learning involves distributing learning activities over time with interva
 
 * **Interleaving**: Mixing different topics or concepts during practice sessions helps learners develop a deeper understanding and better transfer their knowledge to real-world scenarios.
 
-3. **Retrieval Practice**
+3\. **Retrieval Practice**
 -------------------------
 
 Retrieval Practice involves actively recalling information from memory rather than passively reviewing it. This technique improves long-term retention and strengthens learning. Key techniques include:
@@ -32,7 +32,7 @@ Retrieval Practice involves actively recalling information from memory rather th
 
 * **Reflection and Discussion**: Engaging in reflective exercises and discussions where learners articulate their understanding and explain concepts further enhances retrieval practice.
 
-4. **Personalization**
+4\. **Personalization**
 ----------------------
 
 Personalization techniques aim to tailor training experiences to individual learners' needs and preferences. By considering learners' prior knowledge, interests, and learning styles, organizations can facilitate more effective learning. Key techniques include:
@@ -41,7 +41,7 @@ Personalization techniques aim to tailor training experiences to individual lear
 
 * **Individual Learning Paths**: Allowing learners to choose their own learning paths or providing personalized recommendations fosters a sense of ownership and motivation.
 
-5. **Active Learning**
+5\. **Active Learning**
 ----------------------
 
 Active Learning promotes learner engagement and participation through hands-on activities and interactive experiences. Key techniques include:
