@@ -41,4 +41,3 @@ In conclusion, delivering microlearning content for cybersecurity training by le
 
 Best practices such as keeping modules short and focused, using visuals, incorporating interactive features, personalizing content, and tracking learner progress can help ensure that training content is delivered effectively and that learners are adequately prepared to handle cyber threats and protect business data and assets.
 
-
