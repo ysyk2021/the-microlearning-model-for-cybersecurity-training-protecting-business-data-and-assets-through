@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Cybersecurity Training Effectiveness
-========================================================================
 
 In this chapter, we will explore how to measure and evaluate the effectiveness of cybersecurity training programs.
 

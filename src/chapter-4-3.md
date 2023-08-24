@@ -1,4 +1,3 @@
-# Creating Bite-Sized, Engaging Learning Content
 
 In this chapter, we will explore how to create bite-sized, engaging learning content for cybersecurity training as part of a microlearning plan.
 

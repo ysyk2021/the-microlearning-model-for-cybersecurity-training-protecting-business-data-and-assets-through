@@ -1,5 +1,3 @@
-Continuous Improvement in Cybersecurity Training Practices
-===================================================================
 
 In this chapter, we will explore the importance of continuous improvement in cybersecurity training practices using the microlearning model. To stay ahead of evolving threats and ensure the effectiveness of training initiatives, organizations must embrace a culture of continuous improvement in their cybersecurity training programs.
 

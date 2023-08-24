@@ -1,4 +1,3 @@
-# Future Directions for Research and Practice
 
 In this chapter, we will discuss future directions for research and practice in cybersecurity training using the microlearning model.
 

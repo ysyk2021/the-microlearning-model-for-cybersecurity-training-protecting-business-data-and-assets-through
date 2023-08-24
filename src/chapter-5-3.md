@@ -1,5 +1,3 @@
-Ensuring Accessibility and Relevance
-=============================================
 
 In this chapter, we will explore the importance of ensuring accessibility and relevance in cybersecurity training programs. To effectively protect business data and assets, employee education must be accessible to all and tailored to address the specific cybersecurity challenges faced by the organization. This chapter highlights key considerations for creating accessible and relevant cybersecurity training initiatives.
 

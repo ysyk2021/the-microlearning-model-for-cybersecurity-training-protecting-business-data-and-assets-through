@@ -1,5 +1,3 @@
-Chapter 2: Overview of Cybersecurity Threats
-============================================
 
 In this chapter, we will provide an overview of cybersecurity threats and their impact on businesses. We will also discuss techniques for overcoming common cybersecurity threats.
 

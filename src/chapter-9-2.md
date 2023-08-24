@@ -1,5 +1,3 @@
-Respecting Employee Privacy and Confidentiality
-========================================================
 
 In this chapter, we will discuss the importance of respecting employee privacy and confidentiality in the context of cybersecurity training using the microlearning model. As organizations strive to protect business data and assets, it is crucial to balance the need for training with employees' rights to privacy and confidentiality.
 

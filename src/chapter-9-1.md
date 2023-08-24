@@ -1,5 +1,3 @@
-Techniques for Addressing Ethical Considerations
-=========================================================
 
 In this chapter, we will explore techniques for addressing ethical considerations in the context of cybersecurity training using the microlearning model. As organizations educate their employees on protecting business data and assets, it is essential to ensure that ethical guidelines are understood and followed.
 

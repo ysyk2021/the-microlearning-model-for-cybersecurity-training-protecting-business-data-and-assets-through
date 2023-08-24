@@ -1,5 +1,3 @@
-Chapter 6: Assessing Learning Outcomes in Microlearning
-=======================================================
 
 In this chapter, we will discuss techniques for assessing learning outcomes in microlearning and measuring knowledge retention and transfer.
 

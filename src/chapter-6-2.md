@@ -1,5 +1,3 @@
-Measuring Knowledge Retention and Transfer
-===================================================
 
 In this chapter, we will explore the importance of measuring knowledge retention and transfer in the context of cybersecurity training. Effective cybersecurity education goes beyond simply imparting knowledge; it requires ensuring that employees retain and apply that knowledge to protect business data and assets. This chapter focuses on various methods and techniques for measuring knowledge retention and transfer in microlearning-based cybersecurity training programs.
 

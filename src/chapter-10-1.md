@@ -1,4 +1,3 @@
-# Recap of Key Points and Strategies
 
 In this book, we have explored the importance of cybersecurity training for protecting business data and assets, and how microlearning can be an effective approach to delivering that training. Here is a recap of key points and strategies discussed in this book:
 

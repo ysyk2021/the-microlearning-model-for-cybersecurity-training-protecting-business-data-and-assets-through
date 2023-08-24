@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the microlearning model for cybersecurity training and how it can help protect business data and assets through employee education. We have discussed various topics related to microlearning, including its benefits, design principles, delivery methods, ethical considerations, and assessment techniques.
 

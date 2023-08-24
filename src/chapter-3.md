@@ -1,5 +1,3 @@
-Chapter 3: Understanding the Science of Learning
-================================================
 
 In this chapter, we will explore the science of learning and how it relates to cybersecurity training.
 

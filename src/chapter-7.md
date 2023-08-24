@@ -1,5 +1,3 @@
-Chapter 7: Addressing Barriers to Effective Cybersecurity Training
-==================================================================
 
 In this chapter, we will discuss techniques for addressing barriers to effective cybersecurity training. We will also explore how to overcome resistance to change and new strategies and manage time constraints and workloads.
 

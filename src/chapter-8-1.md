@@ -1,5 +1,3 @@
-Metrics for Measuring Cybersecurity Training Effectiveness
-===================================================================
 
 In this chapter, we will explore the importance of defining and utilizing metrics to measure the effectiveness of cybersecurity training using the microlearning model. Leveraging appropriate metrics enables organizations to assess the impact of their training programs, identify areas for improvement, and ensure that employees are equipped with the necessary knowledge and skills to protect business data and assets.
 

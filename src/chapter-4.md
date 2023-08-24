@@ -1,5 +1,3 @@
-Chapter 4: Developing a Microlearning Plan for Cybersecurity Training
-=====================================================================
 
 In this chapter, we will explore how to develop a microlearning plan for cybersecurity training, including techniques for identifying key concepts and skills, and creating bite-sized, engaging learning content.
 

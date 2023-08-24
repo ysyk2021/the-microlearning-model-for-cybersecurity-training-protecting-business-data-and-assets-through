@@ -1,5 +1,3 @@
-Identifying Key Cybersecurity Concepts and Skills
-==========================================================
 
 In this chapter, we will explore the process of identifying key cybersecurity concepts and skills for effective microlearning in cybersecurity training. Identifying these key concepts and skills is crucial to ensure that employees receive the necessary education to protect business data and assets. This chapter focuses on strategies for identifying and prioritizing the most important cybersecurity concepts and skills that should be included in a microlearning program.
 

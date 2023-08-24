@@ -1,5 +1,3 @@
-Techniques for Developing a Microlearning Plan for Cybersecurity Training
-==================================================================================
 
 In this chapter, we will explore various techniques for developing a microlearning plan specifically tailored for cybersecurity training. Creating an effective microlearning program requires careful planning and consideration of the unique requirements and challenges of cybersecurity education. This chapter focuses on key techniques and considerations to develop a robust microlearning plan for cybersecurity training initiatives.
 

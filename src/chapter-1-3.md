@@ -1,5 +1,3 @@
-Why Understanding the Microlearning Model is Critical for Effective Employee Education
-===============================================================================================
 
 In this chapter, we will discuss why understanding the microlearning model is critical for effective employee education in the context of cybersecurity training. The microlearning approach offers significant advantages and aligns well with the needs and preferences of modern learners.
 
